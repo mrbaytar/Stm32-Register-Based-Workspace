@@ -1,0 +1,52 @@
+# IDE ve Çalışma Alanı Dosyaları
+.settings/
+.cproject
+.project
+.launches/
+*.launch
+
+
+# Debug/Build Klasörleri
+Debug/
+Release/
+/Binaries/
+
+# Object dosyaları ve geçici derleme dosyaları
+*.o
+*.d
+*.lst
+*.map
+*.axf
+*.elf
+*.bin
+*.hex
+*.srec
+*.obj
+*.lib
+*.bak
+
+# Gömülü Yazılım Geçici Dosyaları
+*.swp
+*~
+
+# STM32CubeMX Otomatik Oluşturulan Dosyalar
+MX_*.c
+MX_*.h
+
+# GCC Derleyici Dosyaları
+*.d
+
+# Diğer Yedek ve Geçici Dosyalar
+*.tmp
+*.temp
+
+# Derleme Çıktıları
+*.axf
+*.elf
+*.gch
+
+# Herhangi Bir Gizli veya Geçici Dosya
+.DS_Store
+Thumbs.db
+
+.metadata/

@@ -1,0 +1,29 @@
+# Build klasörleri ve geçici dosyalar
+/Debug/
+/Binaries/
+
+# Object dosyaları ve geçici derleme dosyaları
+*.o
+*.d
+*.lst
+*.map
+*.axf
+*.elf
+*.bin
+*.hex
+*.srec
+*.obj
+*.lib
+*.bak
+
+# STM32CubeIDE dosyaları
+.project
+.cproject
+.settings/
+.launches/
+*.launch
+
+# Log ve geçici dosyalar
+*.log
+*.swp
+*.bak
